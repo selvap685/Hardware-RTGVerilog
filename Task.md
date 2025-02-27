@@ -17,3 +17,5 @@ Day 4
 ![image alt](https://github.com/selvap685/Hardware-RTLVerilog/blob/5370522bede65bed763a4c67f9a48620e9e8e7d2/docs/day%201/4.1.png)
 
 ![image alt](https://github.com/selvap685/Hardware-RTLVerilog/blob/9d64fa55cd82dfabe6fb38ef7f8609a73303781c/docs/day%201/4.2.png)
+
+![image alt](https://github.com/selvap685/Hardware-RTLVerilog/blob/853a26190893232ebdff7c0c3e4ed367f5869b6a/docs/day%201/4.7.png)
